@@ -1,4 +1,4 @@
-package com.kubra.apns.model.outbound;
+package com.kubra.apns.model.inbound;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.gson.annotations.SerializedName;

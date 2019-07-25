@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fae81bf2-5107-4926-994e-1696f992ae98" name="Default Changelist" comment="" />
+    <list default="true" id="fae81bf2-5107-4926-994e-1696f992ae98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSPayload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSPayload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSAlert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSPayload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSPayload.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +18,81 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSClientResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSNotification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSPayload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,6 +100,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,13 +117,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSErrorResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/internal/APNSTokenGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSClientResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/internal/PushService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSAlert.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSNotification.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSPayload.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/api/PushController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSClientResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java" />
       </list>
     </option>
   </component>
@@ -55,6 +141,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -159,7 +246,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564086818242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564087137729" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,12 +324,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563915230927</updated>
       <workItem from="1563915232200" duration="10787000" />
-      <workItem from="1564072723759" duration="10925000" />
+      <workItem from="1564072723759" duration="11342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21712000" />
+    <option name="totallyTimeSpent" value="22129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,27 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSClientResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSHeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/ApnsProxyV2Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -405,16 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSAlert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,10 +501,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSPayload.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSClientResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -465,14 +521,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSNotification.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/outbound/APNSHeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="266">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSPayload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSNotification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kubra/apns/model/inbound/APNSAlert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

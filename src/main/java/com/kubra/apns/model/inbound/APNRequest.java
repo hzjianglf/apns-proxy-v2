@@ -1,7 +1,5 @@
 package com.kubra.apns.model.inbound;
 
-import com.kubra.apns.model.outbound.APNSPayload;
-
 public class APNRequest {
     private final String keyId;
     private final String teamId;
